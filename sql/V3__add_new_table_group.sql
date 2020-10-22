@@ -1,5 +1,0 @@
-CREATE TABLE `group` (
-	`id` INT NOT NULL AUTO_INCREMENT UNIQUE,
-	`name` VARCHAR(255),
-	PRIMARY KEY (`id`)
-);
